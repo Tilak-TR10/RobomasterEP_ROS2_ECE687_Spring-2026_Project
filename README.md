@@ -308,7 +308,7 @@ or
 - Integrated arm and gripper control.
 - Added hockey objects to the simulation environment.
 - Developed stick pickup logic using experimentally determined offsets.
-- Implemented waypoint navigation and swing-shot behavior.
+- Implemented waypoint navigation and swing-shot behaviour.
 - Performed hardware testing and system validation.
 - Prepared major portions of the project report.
 
