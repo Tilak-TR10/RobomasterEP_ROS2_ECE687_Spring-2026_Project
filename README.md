@@ -3,7 +3,6 @@
 ECE687 Final Project
 An autonomous hockey-playing RoboMaster EP robot developed using ROS2, OptiTrack motion capture, Approximate Linearization, and CLF-CBF-QP-based obstacle avoidance.
 
-YouTube link: https://youtu.be/7PON9QAs5Pc
 ---
 
 ## Team Members
@@ -30,6 +29,12 @@ The objective of this project was to develop an autonomous RoboMaster EP robot c
 The system was implemented using ROS2 and OptiTrack motion capture feedback.
 
 ---
+
+## 🎥 Project Demo
+
+[![ECE687 RoboMaster ROS Demo](https://img.youtube.com/vi/7PON9QAs5Pc/maxresdefault.jpg)](https://youtu.be/7PON9QAs5Pc)
+
+**▶️ Click the image above to watch the project demonstration.**
 
 ## Finite State Machine
 
